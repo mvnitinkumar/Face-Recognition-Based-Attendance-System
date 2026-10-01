@@ -357,7 +357,7 @@ mont={'01':'January',
 window = tk.Tk()
 window.geometry("1280x720")
 window.resizable(True,False)
-window.title("Attendance System")
+window.title("Attendance System - Dashboard")
 window.configure(background='#262523')
 
 frame1 = tk.Frame(window, bg="#00aeff")
